@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+Flutter project to code along Udemy course Flutter & Dart Parts 8-10.
 
 ## Getting Started
 
